@@ -31,7 +31,7 @@ export default function Home() {
     <Layout>
       <HomepageHeader />
       <main>
-        <img src='https://img.czm.cool/cover/%E6%B4%9B%E5%A4%A9%E4%BE%9D%E8%B4%BA%E6%96%B0%E6%98%A5.png'>
+        <img style={{width: '100%'}} src='https://img.czm.cool/cover/%E6%B4%9B%E5%A4%A9%E4%BE%9D%E8%B4%BA%E6%96%B0%E6%98%A5.png'>
         </img>
       </main>
     </Layout>
